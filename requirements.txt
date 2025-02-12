@@ -2,3 +2,4 @@ streamlit
 transformers
 torch
 openai
+openai==1.3.0
